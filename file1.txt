@@ -1,3 +1,7 @@
 fixing bug1234
 
+<<<<<<< HEAD
 adding something to this file
+=======
+changes by someone other
+>>>>>>> 99994214ece1d6b59094cb0935b52fbbc647a134
